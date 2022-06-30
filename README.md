@@ -1,5 +1,5 @@
 # MyWeatherApp
-A web application that displays a 3-day weather forecast data from AccuWeather Forecast API. It loads the weather forecast based on the provided city/region.
+A web application that displays a 3-day weather forecast data from [AccuWeather Forecast API](https://developer.accuweather.com/). It loads the weather forecast based on the provided city/region.
 
 Built using ReactJS with TypeScript and Bootstrap
 
@@ -8,14 +8,9 @@ Built using ReactJS with TypeScript and Bootstrap
 - TypeScript
 
 ## Packages used
-React-bootstrap - a complete re-implementation of the Bootstrap components using React
-https://react-bootstrap.github.io/
-
-React-Select - for autocomplete implementation of selecting locations from AccuWeather Forecast API
-https://www.npmjs.com/package/react-select
-
-Axios - used for fetching data from AccuWeather Forecast API
-https://www.npmjs.com/package/axios
+- [React-bootstrap](https://react-bootstrap.github.io/) - a complete re-implementation of the Bootstrap components using React
+- [React-Select](https://www.npmjs.com/package/react-select) - for autocomplete implementation of selecting locations from AccuWeather Forecast API
+- [Axios](https://www.npmjs.com/package/axios) - used for fetching data from AccuWeather API
 
 ## Getting Started
 
